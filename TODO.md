@@ -6,4 +6,7 @@
 -->
 # TODO
 
+[UML]UML阅读200pages 6.27
+[概率图模型]
 [关于分布式训练的学习](https://zhuanlan.zhihu.com/p/485208899)
+[OOP]强化学习范式
